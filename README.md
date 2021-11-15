@@ -1,6 +1,7 @@
 TASKS PERFORMED
 
 Internship on Data Science & Business Analytics
+
 Performed analysis and prediction on datasets of various domains.Implemented Machine Learning techniques to derive the required insights.The tasks include
 
 ● TASK 1 - SUPERVISED ML

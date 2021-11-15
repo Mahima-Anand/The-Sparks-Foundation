@@ -12,4 +12,3 @@ Performed analysis and prediction on datasets of various domains.Implemented Mac
     Perofrmed on Terrorism Dataset to find out the hot zone of terrorism.
 ● TASK 5 - Decision Tree Classifier 
     To create Decision Tree Classifier and represent it visually
-
